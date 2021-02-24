@@ -10,6 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/HK0106/nodejs-express-sequelize-mysql.git"
   },
-  "author": "bezkoder",
-  "license": "ISC"
+  "author": "HK0106",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.5.0"
+  }
 }
